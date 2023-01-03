@@ -1,3 +1,5 @@
 # V12
 
-V12 opensource py server by Romashka
+V11-12 opensource py servers by RomashkaDev, XeonDev, VitalikObject
+
+(+retrobrawl.script)
