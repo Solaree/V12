@@ -4,7 +4,7 @@ V11-12 opensource py servers by Terra, XeonDev, VitalikObject
 
 V11 server: XeonDev
 
-V12 servers: Terra, VitalikObject
+V12 servers: RomashkaDev(modificated by Terra), VitalikObject
 
 +retrobrawl.script(VitalikObject)
 
