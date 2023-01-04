@@ -1,10 +1,10 @@
 # V12
 
-V11-12 opensource py servers by RomashkaDev, XeonDev, VitalikObject
+V11-12 opensource py servers by Terra, XeonDev, VitalikObject
 
 V11 server: XeonDev
 
-V12 servers: RomashkaDev, VitalikObject
+V12 servers: Terra, VitalikObject
 
 +retrobrawl.script(VitalikObject)
 
