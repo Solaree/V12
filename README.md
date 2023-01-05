@@ -12,6 +12,6 @@ V12 servers: RomashkaDev(modificated by Terra), VitalikObject
 
 ```python setup.py install``` — in TweetNaCl folder
 
-Python version for servers — ```3.8 — 3.10```
+Python version for servers — ```3.8 — 3.9```
 
 P.S Check out bsds scripts: https://github.com/Solaree/lib-frida.git
